@@ -1,0 +1,41 @@
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.innholds-boks {
+    background-color: aqua;
+}
+
+.telefon-boks {
+    position: absolute;
+    width: 40%;
+    height: 60%;
+}
+
+.applikasjon-størrelse {
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    width: 10%;
+    height: 10%;
+
+}
+
+#klokke_app{
+    top: 5%;
+    left: 42%;
+}
+#kalender_app{
+    top: 5%;
+    left: 55%;
+}
+
+#kontakter_app{
+    top: 5%;
+    left: 68%;
+}
+#notater_app{
+    top: 18%;
+    left: 42%;
+}
